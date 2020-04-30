@@ -6,4 +6,4 @@ A new pharmaceutical startup is recently acquired by one of the world's largest 
 #### I used XGBOOST in the end and fineTuned it using HyperOpt, did NLP , made new features, but few worked few didn't, the notebook is self-explaining, so let's directly [jump into it.](https://github.com/bhrt-sharma/HackerEarth-STD-Challenge)
 
 
-[Final_leader_board.JPG]()
+[](Final_leader_board.JPG)
